@@ -1,2 +1,7 @@
-# demo-centro-odontologico-flores
-Demo web para Centro Odontológico Flores — diseñada por eterlab.
+# Centro Odontológico Flores
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
